@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  repo: Wilsonchoo2017/my-website
+  repo: Wilsonchoo2017/docuTest
 
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
